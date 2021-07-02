@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhil091" alt="akhil091" /> </p>
 
-- 🔭 I’m currently working as a freelance web developer.
+- 🔭 I’m currently working as a **freelance web developer**
 
 - 🌱 I’m currently learning **React.js**
 
@@ -14,7 +14,7 @@
 
 - 💬 Proficient at **Frontend Development, JavaScript, Python(Django), SQL**
 
-- 📫 Reach to me @ **akhilchandail9@gmail.com**
+- 📫 Reach to me at **akhilchandail9@gmail.com**
 
 - ⚡ Also worked on **Machine/Deep Learning, NLP, Blockchain Technology, AWS, IBM Cloud**
 <br>

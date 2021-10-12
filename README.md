@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 💻 All of my projects are available at [https://akhilchandail.com/](https://https://akhilchandail.com/)
+- 💻 All of my projects are available at [https://akhilchandail.com/](https://akhilchandail.com/)
 
 - 📝 Sometimes I write articles on [Medium](https://medium.com/@akhilchandail9)
 

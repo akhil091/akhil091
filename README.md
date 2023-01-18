@@ -23,7 +23,7 @@
 &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="50" height="50"/>
 &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="django" width="50" height="50"/>
 &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="50" height="50"/>
-&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" alt="wordpress" width="50" height="50"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=akhil091&show_icons=true" alt="akhil091" /> </p>
+&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" alt="wordpress" width="50" height="50"/></p>
 
 <p align="center">
 <a href="https://codepen.io/akhil09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="akhil09" height="20" width="20" /></a>&nbsp;&nbsp;

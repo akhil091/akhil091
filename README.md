@@ -1,18 +1,18 @@
 
 <h1 align="center">Hi 👋, I'm Akhil Chandail</h1>
-<h3 align="center">Freelance Web Developer, building creative Design + Development of web applications.</h3>
+<h3 align="center">Software Engineer @Axxess</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhil091" alt="akhil091" /> </p>
 
-- 🔭 I’m currently working as a **freelance web developer**
+- 🔭 I’m currently working as a **Software Engineer @Axxess**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Vue.js**
 
 - 💻 All of my projects are available at [https://akhilchandail.com/](https://akhilchandail.com/)
 
 - 📝 Sometimes I write articles on [Medium](https://medium.com/@akhilchandail9)
 
-- 💬 Proficient at **Frontend Development, JavaScript, Python(Django), SQL**
+- 💬 Proficient at **Frontend Development, JavaScript, VueJS, Python(Django), SQL**
 
 - 📫 Reach to me at **akhilchandail9@gmail.com**
 

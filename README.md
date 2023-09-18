@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **System Design**
 
-- 💻 Some of my projects are available at [https://akhilchandail.com/](https://akhilchandail.in/)
+- 💻 Some of my projects are available at [https://akhilchandail.in/](https://akhilchandail.in/)
 
 - 📝 Sometimes I write articles on [Medium](https://medium.com/@akhilchandail9)
 

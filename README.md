@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Akhil Chandail</h1>
-<h3 align="center">Software Engineer @Axxess</h3>
+<h3 align="center">Software Engineer @Cavista</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhil091" alt="akhil091" /> </p>
 

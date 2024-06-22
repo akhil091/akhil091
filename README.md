@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhil091" alt="akhil091" /> </p>
 
-- 🔭 I’m currently working as a **Software Engineer at Cavista**
+- 🔭 I’m currently working as a **Software Engineer I at Cavista**
 
 - 🌱 I’m currently learning **System Design**
 
@@ -12,7 +12,7 @@
 
 - 📝 Sometimes I write articles on [Medium](https://medium.com/@akhilchandail9)
 
-- 💬 Proficient at **Frontend Web Development, JavaScript, VueJS, Python(Django), SQL**
+- 💬 Proficient at **Frontend Web Development, JavaScript, VueJS, React.js, Typescript, Python(Django), SQL**
 
 - 📫 Reach to me at **akhilchandail9@gmail.com**
 
@@ -22,6 +22,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg"width="50" height="50"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/>

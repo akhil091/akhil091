@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhil091" alt="akhil091" /> </p>
 
-- 🔭 I’m currently working as a **Software Engineer I at Cavista**
+- 🔭 I’m currently working as a **Software Engineer I at Bentley Systems**
 
 - 🌱 I’m currently learning **System Design**
 
@@ -12,7 +12,7 @@
 
 - 📝 Sometimes I write articles on [Medium](https://medium.com/@akhilchandail9)
 
-- 💬 Proficient at **Frontend Web Development, JavaScript, VueJS, React.js, Typescript, Python(Django), SQL**
+- 💬 Proficient at **Web Development, JavaScript, VueJS, React.js, Typescript, Python(Django), SQL, Node.js**
 
 - 📫 Reach to me at **akhilchandail9@gmail.com**
 
